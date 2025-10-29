@@ -1,3 +1,5 @@
+Titlu: Sistem monitorizare parcare
+
 1. 
 Autor(i): Abdelrahman Osman Elfaki, Wassim Messoudi, Anas Bushnag, Shakour Abuzneid, Tareq Alhmiedat
 An: 2023
