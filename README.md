@@ -57,6 +57,16 @@ Comentarii suplimentare: Foarte relevant pentru proiect: combină cameră + edge
 
 
 Schema bloc a proiectului:
+
+
+
+
+
+
+
+
+
+
 <img width="121" height="721" alt="Schema_bloc drawio" src="https://github.com/user-attachments/assets/5a8e4a64-846c-4f45-be7e-8c18cea2dc4a" />
 
 
