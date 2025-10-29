@@ -62,3 +62,16 @@ Schema bloc a proiectului:
 
 <img width="921" height="89" alt="Schema-bloc drawio" src="https://github.com/user-attachments/assets/fe86c97c-0970-4c8e-b3e9-7a91688b6aa7" />
 
+
+
+
+
+
+
+
+
+
+
+<img width="121" height="721" alt="Schema_bloc drawio" src="https://github.com/user-attachments/assets/21f7166f-9a6b-4abc-a04b-07237582f643" />
+
+
